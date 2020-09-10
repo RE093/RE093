@@ -28,5 +28,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RE093&repo=github-readme-stats" />
 </a>
 <a href="#">
-  <img align="center" src="https://raw.githubusercontent.com/RE093/RE093/master/Car.gif" />
+  <img align="center" src="https://raw.githubusercontent.com/RE093/RE093/master/Car.gif" width="500px" />
 </a>
