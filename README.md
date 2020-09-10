@@ -4,7 +4,7 @@
   </div>
 </h1>
 
-<h1 align="center"> Hi! I'm Rupert </h1>
+<h1 align="center"> Hi! I'm Rupert! </h1>
 
 <p align="center">
   <a><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -20,7 +20,7 @@
   <a><img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" /></a>
   <a><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></a>
   <a>	<img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
 </p>
 
