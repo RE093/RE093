@@ -25,7 +25,7 @@
 </p>
 
 <a href="https://github.com/RE093/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RE093&repo=github-readme-stats" height="500px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RE093&repo=github-readme-stats" height="500px" width="500px"/>
 </a>
 <a href="#">
   <img align="center" src="https://raw.githubusercontent.com/RE093/RE093/master/Car.gif" width="500px" />
