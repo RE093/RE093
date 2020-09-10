@@ -6,7 +6,7 @@
 
 <h1 align="center"> Hi! I'm Rupert! </h1>
 
-<a href="https://github.com/RE093/github-readme-stats">
+<a width="400px">
   <h2>About me</h2>
   <ul>
     <li>Currently finishing up a full-stack coding bootcamp at Monash University</li>
@@ -14,6 +14,7 @@
     <li>In the weekends you can find me working on a car somewhere, or exploring somewhere new. I love getting out in nature</li>
   </ul>
 </a>
+<div>
 <a href="#">
   <img align="center" src="https://raw.githubusercontent.com/RE093/RE093/master/Car.gif" width="420px" />
 </a>
