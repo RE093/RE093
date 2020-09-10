@@ -24,5 +24,10 @@
   <a><img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
 </p>
 
+<p align="right">
+  <a><img src="https://raw.githubusercontent.com/RE093/RE093/master/Car.gif" height="500px" width="500px"></a>
+</p>
+<p align="left">
+  <a>![Ruperts's github stats](https://github-readme-stats.vercel.app/api?username=RE093&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)</a>
+</p>
 
-<img src="https://raw.githubusercontent.com/RE093/RE093/master/Car.gif" height="500px" width="500px">
