@@ -6,9 +6,9 @@
 
 <h1 align="center"> Hi! I'm Rupert! </h1>
 
-<a width="400px">
-  <h2>About me</h2>
-  <ul>
+<a>
+  <h2 align="centre" >About me</h2>
+  <ul align="centre">
     <li>Currently finishing up a full-stack coding bootcamp at Monash University</li>
     <li>I love designing functional clean interfaces using current UX practices and UI principles</li>
     <li>In the weekends you can find me working on a car somewhere, or exploring somewhere new. I love getting out in nature</li>
