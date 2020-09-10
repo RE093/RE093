@@ -6,6 +6,13 @@
 
 <h1 align="center"> Hi! I'm Rupert! </h1>
 
+<a href="https://github.com/RE093/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RE093&show_icons=true&theme=radical" />
+</a>
+<a href="#">
+  <img align="center" src="https://raw.githubusercontent.com/RE093/RE093/master/Car.gif" width="420px" />
+</a>
+
 <p align="center">
   <a><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a>	<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
@@ -23,10 +30,3 @@
   <a><img src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
 </p>
-
-<a href="https://github.com/RE093/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RE093&show_icons=true&theme=radical" />
-</a>
-<a href="#">
-  <img align="center" src="https://raw.githubusercontent.com/RE093/RE093/master/Car.gif" width="420px" />
-</a>
