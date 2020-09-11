@@ -12,11 +12,11 @@
 
 ### Who I Am 🌱
 
-:earth_americas: &nbsp; I am an explorer in the digital space and nature. 
+- I am an explorer in the digital space and nature. 
 
-:pencil2: &nbsp; I design and create functional clean interfaces using current UX practices and UI principles.
+- I design and create functional clean interfaces using current UX practices and UI principles.
 
-💻 &nbsp; Currently I am finishing up a full-stack coding bootcamp at Monash University.
+- Currently I am finishing up a full-stack coding bootcamp at Monash University.
 
 <br>
 <br>
