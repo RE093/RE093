@@ -3,7 +3,7 @@
   <a href="https://github.com/RE093"><img src="https://raw.githubusercontent.com/RE093/RE093/master/RE.png" height="128" width="128" alt="RE"></a>
 </div>
 
-<h1 align="center"> Hi! I'm Rupert! </h1>
+<h1 align="center"> Hi! I'm Rupert! :deciduous_tree:</h1>
 <p>
   <a href="#"><img align="right" src="https://raw.githubusercontent.com/RE093/RE093/master/Car.gif" width="420px"/></a>
 </p>
@@ -12,11 +12,11 @@
 
 ### Who I Am 🌱
 
-I am an explorer in the digital space and nature. 
+- :earth_americas:I am an explorer in the digital space and nature. 
 
-I design and create functional clean interfaces using current UX practices and UI principles.
+- :pencil2: I design and create functional clean interfaces using current UX practices and UI principles.
 
-Currently I am finishing up a full-stack coding bootcamp at Monash University.
+- 💻  Currently I am finishing up a full-stack coding bootcamp at Monash University.
 
 <br>
 <br>
