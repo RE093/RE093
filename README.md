@@ -5,10 +5,9 @@
 </h1>
 
 <h1 align="center"> Hi! I'm Rupert! </h1>
-
-<a href="#">
-  <img align="center" src="https://raw.githubusercontent.com/RE093/RE093/master/Car.gif" width="420px" align='right' />
-</a>
+<p>
+  <a href="#"><img align="right" src="https://raw.githubusercontent.com/RE093/RE093/master/Car.gif" width="420px"/></a>
+</p>
 
 ### Who I Am 🌱
 
