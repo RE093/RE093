@@ -6,18 +6,14 @@
 
 <h1 align="center"> Hi! I'm Rupert! </h1>
 
-<a>
-  <h2 align="centre" >About me</h2>
-  <ul align="centre">
-    <li>Currently finishing up a full-stack coding bootcamp at Monash University</li>
-    <li>I love designing functional clean interfaces using current UX practices and UI principles</li>
-    <li>In the weekends you can find me working on a car somewhere, or exploring somewhere new. I love getting out in nature</li>
-  </ul>
-</a>
-<div>
 <a href="#">
-  <img align="center" src="https://raw.githubusercontent.com/RE093/RE093/master/Car.gif" width="420px" />
+  <img align="center" src="https://raw.githubusercontent.com/RE093/RE093/master/Car.gif" width="420px" align='right' />
 </a>
+
+### Who I Am 🌱
+
+I am an explorer in the digital space and nature, I design and create functional clean interfaces using current UX practices and UI principles.
+Currently I am finishing up a full-stack coding bootcamp at Monash University.
 
 <p align="center">
   <a><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
