@@ -9,16 +9,20 @@
   <a href="#"><img align="right" src="https://raw.githubusercontent.com/RE093/RE093/master/Car.gif" width="420px"/></a>
 </p>
 
+<br>
 ### Who I Am 🌱
 
 I am an explorer in the digital space and nature, I design and create functional clean interfaces using current UX practices and UI principles.
 Currently I am finishing up a full-stack coding bootcamp at Monash University.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <hr>
-<br>
-<br>
-<br>
-<br>
+
 
 <p align="center">
   <a><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
