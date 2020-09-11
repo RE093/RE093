@@ -26,8 +26,6 @@ Currently I am finishing up a full-stack coding bootcamp at Monash University.
 <br>
 <br>
 <br>
-<br>
-<br>
 <hr>
 
 
