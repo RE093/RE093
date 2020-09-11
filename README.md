@@ -1,8 +1,7 @@
 <br>
-  <div align="center">
-  <a href="https://github.com/RE093"><img src="./public/assets/RE.png" height="128" width="128" alt="RE"></a>
-  </div>
-</h1>
+<div align="center">
+  <a href="https://github.com/RE093"><img src="./RE.png" height="128" width="128" alt="RE"></a>
+</div>
 
 <h1 align="center"> Hi! I'm Rupert! </h1>
 <p>
