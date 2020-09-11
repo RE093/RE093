@@ -15,6 +15,10 @@ I am an explorer in the digital space and nature, I design and create functional
 Currently I am finishing up a full-stack coding bootcamp at Monash University.
 
 <hr>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
   <a><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
