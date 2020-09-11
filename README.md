@@ -13,7 +13,10 @@
 
 ### Who I Am 🌱
 
-I am an explorer in the digital space and nature, I design and create functional clean interfaces using current UX practices and UI principles.
+I am an explorer in the digital space and nature. 
+
+I design and create functional clean interfaces using current UX practices and UI principles.
+
 Currently I am finishing up a full-stack coding bootcamp at Monash University.
 
 <br>
