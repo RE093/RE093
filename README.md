@@ -25,6 +25,8 @@ I design and create functional clean interfaces using current UX practices and U
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <p align="center">
   <a><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
